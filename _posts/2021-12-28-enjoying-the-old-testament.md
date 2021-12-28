@@ -3,7 +3,7 @@ layout: post
 title:  "Enjoying the Old Testament: A Creative Guide to Encountering Scripture – Eric A. Seibert"
 author: dani
 categories: [ Reviews ]
-image: https://ivpress.com/Media/Default/_Profiles/ed33b54/53f3c03/A0120.jpg
+image: http://z2-ec2.images-amazon.com/images/P/B092Q2G17Y.01.MAIN._SCRM_.jpg
 published: true 
 ---
 
